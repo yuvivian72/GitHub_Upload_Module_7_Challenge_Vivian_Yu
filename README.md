@@ -10,11 +10,12 @@ This application uses Python 3.7, Jupyter Lab, SQL, and the Voilà library.
 
 # Examples
 
-<img width="830" alt="Voila Screenshot 1" src="https://user-images.githubusercontent.com/107157533/182982698-68f50ca4-a268-4fb7-8e54-79d7e7723f0e.png">
+<img width="657" alt="image" src="https://user-images.githubusercontent.com/107157533/186708878-9c4fbfa7-be5e-4048-8a10-af4258cbcaaf.png">
 
 
+<img width="658" alt="image" src="https://user-images.githubusercontent.com/107157533/186709012-0096e9d5-7a90-4a97-8cd0-4a73395f228e.png">
 
-<img width="576" alt="ETF Portfolio Cumulative Returns" src="https://user-images.githubusercontent.com/107157533/182983826-5a38140f-e937-4459-835b-523be27537b3.png">
+
 
 ---
 
